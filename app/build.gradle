@@ -31,6 +31,7 @@ dependencies {
     implementation 'com.github.asyl.animation:arcanimator:1.0.0'
     implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
     implementation 'com.android.support:design:27.1.1'
+    implementation 'com.github.TayfunCesur:CurvedBottomSheet:1.0.1'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
